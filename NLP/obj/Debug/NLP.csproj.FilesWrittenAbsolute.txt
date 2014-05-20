@@ -1,0 +1,5 @@
+/Users/max/Projects/NLP/NLP/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/max/Projects/NLP/NLP/bin/Debug/NLP.dll.mdb
+/Users/max/Projects/NLP/NLP/bin/Debug/NLP.dll
+/Users/max/Projects/NLP/NLP/obj/Debug/NLP.dll
+/Users/max/Projects/NLP/NLP/obj/Debug/NLP.dll.mdb

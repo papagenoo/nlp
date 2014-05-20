@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLP", "NLP\NLP.csproj", "{9EAAD2A2-8BEF-4435-979B-5118C48C2A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLP.Test", "NLP.Test\NLP.Test.csproj", "{AEA3D5B1-6CB2-439F-8756-C14E4A69310D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EAAD2A2-8BEF-4435-979B-5118C48C2A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAAD2A2-8BEF-4435-979B-5118C48C2A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAAD2A2-8BEF-4435-979B-5118C48C2A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAAD2A2-8BEF-4435-979B-5118C48C2A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA3D5B1-6CB2-439F-8756-C14E4A69310D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA3D5B1-6CB2-439F-8756-C14E4A69310D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA3D5B1-6CB2-439F-8756-C14E4A69310D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA3D5B1-6CB2-439F-8756-C14E4A69310D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NLP\NLP.csproj
+	EndGlobalSection
+EndGlobal
